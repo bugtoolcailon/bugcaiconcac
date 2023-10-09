@@ -1,3 +1,5 @@
-<?php
-echo "chào";
-?>
+<html>
+  <?php
+    echo "chào";
+  ?>
+</html>
